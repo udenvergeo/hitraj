@@ -28,6 +28,8 @@
         "isScrollToTopButton": false
       }
     },
+    "favicon": "@PROJECT_PATH@/assets/images/images-128x128.png",
+    "noImageResize": "",
     "versionFirst": "4.6.7",
     "uniqCompNum": 1,
     "versionPublish": "4.6.7"
